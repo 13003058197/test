@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "index1",
+  name: "index11",
   data() {
     return {};
   },

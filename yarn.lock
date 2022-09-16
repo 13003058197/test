@@ -4605,7 +4605,7 @@
 
 "fh-btn@file:/Users/fh/myproject/test/test1/packages/btn":
   "resolved" "file:packages/btn"
-  "version" "0.0.1"
+  "version" "0.0.2"
 
 "figures@^2.0.0":
   "integrity" "sha512-Oa2M9atig69ZkfwiApY8F2Yy+tzMbazyvqv21R0NsSC8floSOC09BbT1ITWAdoMGQvJ/aZnR1KMwdx9tvHnTNA=="
